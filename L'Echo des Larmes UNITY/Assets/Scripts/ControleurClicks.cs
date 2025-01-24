@@ -1,7 +1,9 @@
 using UnityEngine;
 
-public class Cursor_move : MonoBehaviour
+public class ControleurClicks : MonoBehaviour
 {
+    public int nbClick;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
