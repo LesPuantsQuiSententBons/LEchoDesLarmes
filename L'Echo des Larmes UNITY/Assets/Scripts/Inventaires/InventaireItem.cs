@@ -10,10 +10,7 @@ public abstract class InventaireItem : MonoBehaviour
 
     void Start() {
         sprite = GetComponent<SpriteRenderer>();
-        Color c = sprite.material.color;
-        sprite.material.color = new Color(c.r, c.g, c.b, 0.5f);
         child = this.transform.GetChild(0).gameObject;
-        child.SetActive(false);
     }
 
     void OnMouseDown() {
@@ -49,6 +46,18 @@ public abstract class InventaireItem : MonoBehaviour
         else 
         {
             transform.localScale = new Vector3(4.347826f, 4.347826f, 4.347826f);
+        }
+        if (objetTrouve) 
+        {
+            Color c = sprite.material.color;
+            sprite.material.color = new Color(c.r, c.g, c.b, 1f);
+            child.SetActive(true);
+        }
+        else 
+        {
+            Color c = sprite.material.color;
+            sprite.material.color = new Color(c.r, c.g, c.b, 0.5f);
+            child.SetActive(false);
         }
     }
 }
