@@ -61,22 +61,25 @@ public class Circle_move : MonoBehaviour
             polygon1.enabled = true;
             polygon2.enabled = true;
             polygon3.enabled = true;
-            if(rouage1.transform.rotation.z > 0.85 && rouage1.transform.rotation.z < 0.95)
-                isRouage1True = true;
+            if(rouage1.transform.eulerAngles.z > 130 && rouage1.transform.eulerAngles.z < 140)
+                {isRouage1True = true;}
             else
-                isRouage1True = false;
-            if(rouage2.transform.rotation.z > 0.85 && rouage2.transform.rotation.z < 0.95)
-                isRouage2True = true;
+                {Debug.Log("Rouage1 : " + rouage1.transform.eulerAngles.z);
+                isRouage1True = false;}
+            if(rouage2.transform.eulerAngles.z > 130 && rouage2.transform.eulerAngles.z < 140)
+                {isRouage2True = true;}
             else
-                isRouage2True = false;
-            if(rouage3.transform.rotation.z > -0.6 && rouage3.transform.rotation.z < -0.5)
-                isRouage3True = true;
+               {Debug.Log("Rouage2 : " + rouage2.transform.eulerAngles.z);
+                isRouage2True = false;}
+            if((rouage3.transform.eulerAngles.z < -40+360 && rouage3.transform.eulerAngles.z > -50+360) || (rouage3.transform.eulerAngles.z < -40 && rouage3.transform.eulerAngles.z > -50))
+                {isRouage3True = true;}
             else
-                isRouage3True = false;
+                {Debug.Log("Rouage3 : " + rouage3.transform.eulerAngles.z);
+                isRouage3True = false;}
         }
-        Debug.Log(isRouage1True);
-        Debug.Log(isRouage2True);
-        Debug.Log(isRouage3True);
+        Debug.Log("Rouage1 : " + isRouage1True);
+        Debug.Log("Rouage2 : " + isRouage2True);
+        Debug.Log("Rouage3 : " + isRouage3True);
         if(isRouage1True && isRouage2True && isRouage3True)
             Debug.Log("Game Finish");
     }
