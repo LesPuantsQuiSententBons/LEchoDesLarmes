@@ -6,7 +6,7 @@ public class Cursor_move : MonoBehaviour
 {
     private Camera mainCamera;
     private GameObject Souris;
-    public Vector3 MousePosition;
+    private Vector3 MousePosition;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

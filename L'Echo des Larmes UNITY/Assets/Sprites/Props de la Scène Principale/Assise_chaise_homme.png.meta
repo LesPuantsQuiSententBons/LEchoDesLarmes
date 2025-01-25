@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Assise_chaise_homme_0: 8629279747435121700
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
