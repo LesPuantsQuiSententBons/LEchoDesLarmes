@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c9544867662abba40b4f7ed3003d8d91
+guid: d488cd630ef589b498f014f904382c00
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8629279747435121700
-    second: Assise_chaise_homme_0
+      213: 8748036893281523365
+    second: 3_rouage_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Assise_chaise_homme_0
+      name: 3_rouage_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 261
-        height: 300
+        width: 878
+        height: 878
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 42cc75dd53c51c770800000000000000
-      internalID: 8629279747435121700
+      spriteID: 5a69e029435476970800000000000000
+      internalID: 8748036893281523365
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Assise_chaise_homme_0: 8629279747435121700
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
