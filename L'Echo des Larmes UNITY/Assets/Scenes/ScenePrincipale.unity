@@ -7166,6 +7166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1002cbfc4cf9c16459a2eaefa852e0c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ConfigMusic: {fileID: 1350925199}
 --- !u!212 &1814639413
 SpriteRenderer:
   m_ObjectHideFlags: 0

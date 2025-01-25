@@ -1,7 +1,10 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GoutteFalling : MonoBehaviour
 {
+    public GameObject ConfigMusic;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -14,7 +17,11 @@ public class GoutteFalling : MonoBehaviour
         if (this.transform.position.y < -4.2f)
         {
             Debug.Log("JE QUITTE MA FEMME ET MA FAMILLE");
-            Application.Quit();
+            if (ConfigMusic.GetComponent<ConfigMusic>().nbEnigmesResolues == 3) {
+                SceneManager.LoadScene(1);
+            } else {
+                SceneManager.LoadScene(0);
+            }
         }
         else 
         {
