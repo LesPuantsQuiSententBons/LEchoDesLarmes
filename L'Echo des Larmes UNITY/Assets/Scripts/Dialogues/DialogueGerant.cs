@@ -18,14 +18,13 @@ public class DialogueGerant : MonoBehaviour
     }
 
     public void DialogueMelodieTerminé() {
-        Debug.Log("Dialogue de Melodie ??");
         DialogueBoxMelodie.SetActive(false);
-        cadeau.gameObject.GetComponent<IndiceCadeau>().clickable = true;
+        fleurs.gameObject.GetComponent<IndiceFleurs>().clickable = true;
     }
 
     public void DialogueServeurTerminé() {
         DialogueBoxServeur.SetActive(false);
-        fleurs.gameObject.GetComponent<IndiceFleurs>().clickable = true;
+        cadeau.gameObject.GetComponent<IndiceCadeau>().clickable = true;
     }
 
     public void DialogueFleursTerminé() {

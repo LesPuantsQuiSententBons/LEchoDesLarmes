@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class quit : MonoBehaviour
 {
-    void OnMouseDown() {
+    public void ToutQuitter() {
         Application.Quit();
     }
 }
