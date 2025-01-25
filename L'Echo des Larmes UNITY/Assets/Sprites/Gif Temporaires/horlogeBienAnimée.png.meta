@@ -1,0 +1,2392 @@
+fileFormatVersion: 2
+guid: 9a0020d84fa0f8249b916a416a2e3618
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1489754562453037458
+    second: "horlogeBienAnim\xE9e_0"
+  - first:
+      213: 4215957968497191355
+    second: "horlogeBienAnim\xE9e_1"
+  - first:
+      213: 2171852591396676097
+    second: "horlogeBienAnim\xE9e_2"
+  - first:
+      213: -3971799988806175133
+    second: "horlogeBienAnim\xE9e_3"
+  - first:
+      213: 6821327517402280042
+    second: "horlogeBienAnim\xE9e_4"
+  - first:
+      213: -5517469468039840202
+    second: "horlogeBienAnim\xE9e_5"
+  - first:
+      213: 2034689157123977099
+    second: "horlogeBienAnim\xE9e_6"
+  - first:
+      213: -2634792996605823767
+    second: "horlogeBienAnim\xE9e_7"
+  - first:
+      213: 5532692850645768352
+    second: "horlogeBienAnim\xE9e_8"
+  - first:
+      213: -1337393937402789501
+    second: "horlogeBienAnim\xE9e_9"
+  - first:
+      213: 5843918032518803551
+    second: "horlogeBienAnim\xE9e_10"
+  - first:
+      213: -5422260209896961959
+    second: "horlogeBienAnim\xE9e_11"
+  - first:
+      213: 5816794771713036225
+    second: "horlogeBienAnim\xE9e_12"
+  - first:
+      213: -7389902238214086844
+    second: "horlogeBienAnim\xE9e_13"
+  - first:
+      213: -1111896580312093383
+    second: "horlogeBienAnim\xE9e_14"
+  - first:
+      213: 5148861563979032042
+    second: "horlogeBienAnim\xE9e_15"
+  - first:
+      213: 2261991982644768819
+    second: "horlogeBienAnim\xE9e_16"
+  - first:
+      213: -773374867357512571
+    second: "horlogeBienAnim\xE9e_17"
+  - first:
+      213: -2979179819806354864
+    second: "horlogeBienAnim\xE9e_18"
+  - first:
+      213: 2409271538002606596
+    second: "horlogeBienAnim\xE9e_19"
+  - first:
+      213: 5800401010242759383
+    second: "horlogeBienAnim\xE9e_20"
+  - first:
+      213: -451701060198711760
+    second: "horlogeBienAnim\xE9e_21"
+  - first:
+      213: 3781614647618172644
+    second: "horlogeBienAnim\xE9e_22"
+  - first:
+      213: -7157182722867129162
+    second: "horlogeBienAnim\xE9e_23"
+  - first:
+      213: 9062301842127225515
+    second: "horlogeBienAnim\xE9e_24"
+  - first:
+      213: 2821984144370236672
+    second: "horlogeBienAnim\xE9e_25"
+  - first:
+      213: -6203451155206164611
+    second: "horlogeBienAnim\xE9e_26"
+  - first:
+      213: 5938465694520470680
+    second: "horlogeBienAnim\xE9e_27"
+  - first:
+      213: 5198953776335833402
+    second: "horlogeBienAnim\xE9e_28"
+  - first:
+      213: 3259307825417754832
+    second: "horlogeBienAnim\xE9e_29"
+  - first:
+      213: 4299434618341119225
+    second: "horlogeBienAnim\xE9e_30"
+  - first:
+      213: -1378172062414612658
+    second: "horlogeBienAnim\xE9e_31"
+  - first:
+      213: -7640779009160443871
+    second: "horlogeBienAnim\xE9e_32"
+  - first:
+      213: -8640097608625385178
+    second: "horlogeBienAnim\xE9e_33"
+  - first:
+      213: 687002299184356056
+    second: "horlogeBienAnim\xE9e_34"
+  - first:
+      213: -4308779267425007984
+    second: "horlogeBienAnim\xE9e_35"
+  - first:
+      213: -678830577248425677
+    second: "horlogeBienAnim\xE9e_36"
+  - first:
+      213: 493833956235603854
+    second: "horlogeBienAnim\xE9e_37"
+  - first:
+      213: -3611883596964534966
+    second: "horlogeBienAnim\xE9e_38"
+  - first:
+      213: -7096970880406179885
+    second: "horlogeBienAnim\xE9e_39"
+  - first:
+      213: -5685468061474832079
+    second: "horlogeBienAnim\xE9e_40"
+  - first:
+      213: 3381483816347501511
+    second: "horlogeBienAnim\xE9e_41"
+  - first:
+      213: 3993503969695192312
+    second: "horlogeBienAnim\xE9e_42"
+  - first:
+      213: 7468017227268416094
+    second: "horlogeBienAnim\xE9e_43"
+  - first:
+      213: 2905625327473723792
+    second: "horlogeBienAnim\xE9e_44"
+  - first:
+      213: 5054275180466242850
+    second: "horlogeBienAnim\xE9e_45"
+  - first:
+      213: -7318212619421707626
+    second: "horlogeBienAnim\xE9e_46"
+  - first:
+      213: 7801380276538722953
+    second: "horlogeBienAnim\xE9e_47"
+  - first:
+      213: -8136021039443710263
+    second: "horlogeBienAnim\xE9e_48"
+  - first:
+      213: -6867977593249637535
+    second: "horlogeBienAnim\xE9e_49"
+  - first:
+      213: 6969681798879949147
+    second: "horlogeBienAnim\xE9e_50"
+  - first:
+      213: 778117842621878894
+    second: "horlogeBienAnim\xE9e_51"
+  - first:
+      213: 8744080701114385693
+    second: "horlogeBienAnim\xE9e_52"
+  - first:
+      213: 2647842397830207479
+    second: "horlogeBienAnim\xE9e_53"
+  - first:
+      213: -7218534425643167327
+    second: "horlogeBienAnim\xE9e_54"
+  - first:
+      213: 5257314901460870471
+    second: "horlogeBienAnim\xE9e_55"
+  - first:
+      213: 4750640516762444856
+    second: "horlogeBienAnim\xE9e_56"
+  - first:
+      213: -6454218901820625677
+    second: "horlogeBienAnim\xE9e_57"
+  - first:
+      213: -4599120996669569383
+    second: "horlogeBienAnim\xE9e_58"
+  - first:
+      213: 4387637580974130948
+    second: "horlogeBienAnim\xE9e_59"
+  - first:
+      213: -5937013221894229380
+    second: "horlogeBienAnim\xE9e_60"
+  - first:
+      213: -4670523852739020392
+    second: "horlogeBienAnim\xE9e_61"
+  - first:
+      213: -7418103926111914265
+    second: "horlogeBienAnim\xE9e_62"
+  - first:
+      213: -4232484568078057099
+    second: "horlogeBienAnim\xE9e_63"
+  - first:
+      213: 6365175116851226811
+    second: "horlogeBienAnim\xE9e_64"
+  - first:
+      213: -2739709176992929153
+    second: "horlogeBienAnim\xE9e_65"
+  - first:
+      213: 5400361788768949307
+    second: "horlogeBienAnim\xE9e_66"
+  - first:
+      213: 2039264534861242047
+    second: "horlogeBienAnim\xE9e_67"
+  - first:
+      213: 5698610355648467004
+    second: "horlogeBienAnim\xE9e_68"
+  - first:
+      213: 5720011226619482548
+    second: "horlogeBienAnim\xE9e_69"
+  - first:
+      213: 7346903755338460474
+    second: "horlogeBienAnim\xE9e_70"
+  - first:
+      213: -3584876704956972089
+    second: "horlogeBienAnim\xE9e_71"
+  - first:
+      213: -524302189336914435
+    second: "horlogeBienAnim\xE9e_72"
+  - first:
+      213: -7588537583413071729
+    second: "horlogeBienAnim\xE9e_73"
+  - first:
+      213: 4644196541554301323
+    second: "horlogeBienAnim\xE9e_74"
+  - first:
+      213: 3491865867668341153
+    second: "horlogeBienAnim\xE9e_75"
+  - first:
+      213: 2404287874886121911
+    second: "horlogeBienAnim\xE9e_76"
+  - first:
+      213: 8743625896688905524
+    second: "horlogeBienAnim\xE9e_77"
+  - first:
+      213: -4312367851607042462
+    second: "horlogeBienAnim\xE9e_78"
+  - first:
+      213: -7166721660847104972
+    second: "horlogeBienAnim\xE9e_79"
+  - first:
+      213: -4906972346666412573
+    second: "horlogeBienAnim\xE9e_80"
+  - first:
+      213: 8977619159446134801
+    second: "horlogeBienAnim\xE9e_81"
+  - first:
+      213: -3346871245752093836
+    second: "horlogeBienAnim\xE9e_82"
+  - first:
+      213: 510312760482317496
+    second: "horlogeBienAnim\xE9e_83"
+  - first:
+      213: -4442253900157345221
+    second: "horlogeBienAnim\xE9e_84"
+  - first:
+      213: -3573319140438166785
+    second: "horlogeBienAnim\xE9e_85"
+  - first:
+      213: 1202365584441978970
+    second: "horlogeBienAnim\xE9e_86"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291e789a1ebaca410800000000000000
+      internalID: 1489754562453037458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_1"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9a04c6f67128a30800000000000000
+      internalID: 4215957968497191355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_2"
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102e5b6cc68f32e10800000000000000
+      internalID: 2171852591396676097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_3"
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366be4424f451e8c0800000000000000
+      internalID: -3971799988806175133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_4"
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a603c537c393aae50800000000000000
+      internalID: 6821327517402280042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_5"
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63efb6a60c20e63b0800000000000000
+      internalID: -5517469468039840202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_6"
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fa6b6120bac3c10800000000000000
+      internalID: 2034689157123977099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_7"
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e47f94bab55f6bd0800000000000000
+      internalID: -2634792996605823767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_8"
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8951e85d218cc40800000000000000
+      internalID: 5532692850645768352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_9"
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381885cbc4f907de0800000000000000
+      internalID: -1337393937402789501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_10"
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5078c8fc74c91150800000000000000
+      internalID: 5843918032518803551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_11"
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9584b55411340c4b0800000000000000
+      internalID: -5422260209896961959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_12"
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf0e43b60869b050800000000000000
+      internalID: 5816794771713036225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_13"
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f9266511bc17990800000000000000
+      internalID: -7389902238214086844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_14"
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93da68783ffb190f0800000000000000
+      internalID: -1111896580312093383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_15"
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5e1a6005e647740800000000000000
+      internalID: 5148861563979032042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_16"
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330b25249b5346f10800000000000000
+      internalID: 2261991982644768819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_17"
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cc0f8d7ab6445f0800000000000000
+      internalID: -773374867357512571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_18"
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0521e6efcb3d7a6d0800000000000000
+      internalID: -2979179819806354864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_19"
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aba1ee2b37f6120800000000000000
+      internalID: 2409271538002606596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_20"
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da265aacf92f7050800000000000000
+      internalID: 5800401010242759383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_21"
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e303a674c3bb9f0800000000000000
+      internalID: -451701060198711760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_22"
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6f1b47c7efa7430800000000000000
+      internalID: 3781614647618172644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_23"
+      rect:
+        serializedVersion: 2
+        x: 4163
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b411f2eb349cac90800000000000000
+      internalID: -7157182722867129162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_24"
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba28c53e283c3cd70800000000000000
+      internalID: 9062301842127225515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_25"
+      rect:
+        serializedVersion: 2
+        x: 4525
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00df8f6b0a3b92720800000000000000
+      internalID: 2821984144370236672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_26"
+      rect:
+        serializedVersion: 2
+        x: 4706
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f2378aa0ae8e9a0800000000000000
+      internalID: -6203451155206164611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_27"
+      rect:
+        serializedVersion: 2
+        x: 4887
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c6cb8f51ba96250800000000000000
+      internalID: 5938465694520470680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_28"
+      rect:
+        serializedVersion: 2
+        x: 5068
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a394c221ae4662840800000000000000
+      internalID: 5198953776335833402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_29"
+      rect:
+        serializedVersion: 2
+        x: 5249
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d81dabd2336b3d20800000000000000
+      internalID: 3259307825417754832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_30"
+      rect:
+        serializedVersion: 2
+        x: 5430
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f45d398109aaab30800000000000000
+      internalID: 4299434618341119225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_31"
+      rect:
+        serializedVersion: 2
+        x: 5611
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47d864afcfbfdce0800000000000000
+      internalID: -1378172062414612658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_32"
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1280bb749ff76f590800000000000000
+      internalID: -7640779009160443871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_33"
+      rect:
+        serializedVersion: 2
+        x: 5973
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6219e2d8005381880800000000000000
+      internalID: -8640097608625385178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_34"
+      rect:
+        serializedVersion: 2
+        x: 6154
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da92c283f8b88900800000000000000
+      internalID: 687002299184356056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_35"
+      rect:
+        serializedVersion: 2
+        x: 6335
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096809dc5142434c0800000000000000
+      internalID: -4308779267425007984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_36"
+      rect:
+        serializedVersion: 2
+        x: 6516
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3392f64cf2f4496f0800000000000000
+      internalID: -678830577248425677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_37"
+      rect:
+        serializedVersion: 2
+        x: 6697
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fe273ed537ad600800000000000000
+      internalID: 493833956235603854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_38"
+      rect:
+        serializedVersion: 2
+        x: 6878
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a456ed0510300edc0800000000000000
+      internalID: -3611883596964534966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_39"
+      rect:
+        serializedVersion: 2
+        x: 7059
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df291ce59e728d90800000000000000
+      internalID: -7096970880406179885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_40"
+      rect:
+        serializedVersion: 2
+        x: 7240
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131c6f5cbe82911b0800000000000000
+      internalID: -5685468061474832079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_41"
+      rect:
+        serializedVersion: 2
+        x: 7421
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c300277d917dee20800000000000000
+      internalID: 3381483816347501511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_42"
+      rect:
+        serializedVersion: 2
+        x: 7602
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f45bc2b3b6cb6730800000000000000
+      internalID: 3993503969695192312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_43"
+      rect:
+        serializedVersion: 2
+        x: 7783
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52e4d7d91ab3a760800000000000000
+      internalID: 7468017227268416094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_44"
+      rect:
+        serializedVersion: 2
+        x: 7964
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099037637dad25820800000000000000
+      internalID: 2905625327473723792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_45"
+      rect:
+        serializedVersion: 2
+        x: 8145
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22583c87f74642640800000000000000
+      internalID: 5054275180466242850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_46"
+      rect:
+        serializedVersion: 2
+        x: 8326
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692969c656c707a90800000000000000
+      internalID: -7318212619421707626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_47"
+      rect:
+        serializedVersion: 2
+        x: 8507
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a44dc2702144c60800000000000000
+      internalID: 7801380276538722953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_48"
+      rect:
+        serializedVersion: 2
+        x: 8688
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce6ada98fb071f80800000000000000
+      internalID: -8136021039443710263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_49"
+      rect:
+        serializedVersion: 2
+        x: 8869
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b530d54ca00b0a0800000000000000
+      internalID: -6867977593249637535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_50"
+      rect:
+        serializedVersion: 2
+        x: 9050
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51bebb4ba849b060800000000000000
+      internalID: 6969681798879949147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_51"
+      rect:
+        serializedVersion: 2
+        x: 9231
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62ded22e0e6cca00800000000000000
+      internalID: 778117842621878894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_52"
+      rect:
+        serializedVersion: 2
+        x: 9412
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15854dc117395970800000000000000
+      internalID: 8744080701114385693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_53"
+      rect:
+        serializedVersion: 2
+        x: 9593
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f753e7c1a60fb420800000000000000
+      internalID: 2647842397830207479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_54"
+      rect:
+        serializedVersion: 2
+        x: 9774
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a15c907f2d92db90800000000000000
+      internalID: -7218534425643167327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_55"
+      rect:
+        serializedVersion: 2
+        x: 9955
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74561f56c0cb5f840800000000000000
+      internalID: 5257314901460870471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_56"
+      rect:
+        serializedVersion: 2
+        x: 10136
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8342439416aade140800000000000000
+      internalID: 4750640516762444856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_57"
+      rect:
+        serializedVersion: 2
+        x: 10317
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcae5eca120e66a0800000000000000
+      internalID: -6454218901820625677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_58"
+      rect:
+        serializedVersion: 2
+        x: 10498
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996487a12d3ac20c0800000000000000
+      internalID: -4599120996669569383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_59"
+      rect:
+        serializedVersion: 2
+        x: 10679
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4070e19122504ec30800000000000000
+      internalID: 4387637580974130948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_60"
+      rect:
+        serializedVersion: 2
+        x: 10860
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72723a2eed7b9da0800000000000000
+      internalID: -5937013221894229380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_61"
+      rect:
+        serializedVersion: 2
+        x: 11041
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899708a2d47fe2fb0800000000000000
+      internalID: -4670523852739020392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_62"
+      rect:
+        serializedVersion: 2
+        x: 11222
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e63b2138c99d0990800000000000000
+      internalID: -7418103926111914265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_63"
+      rect:
+        serializedVersion: 2
+        x: 11403
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5718262c5b13345c0800000000000000
+      internalID: -4232484568078057099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_64"
+      rect:
+        serializedVersion: 2
+        x: 11584
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8a21d6b05a55850800000000000000
+      internalID: 6365175116851226811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_65"
+      rect:
+        serializedVersion: 2
+        x: 11765
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a6575e4099af9d0800000000000000
+      internalID: -2739709176992929153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_66"
+      rect:
+        serializedVersion: 2
+        x: 11946
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b349a2e3f60f1fa40800000000000000
+      internalID: 5400361788768949307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_67"
+      rect:
+        serializedVersion: 2
+        x: 12127
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbed47b3a4cec4c10800000000000000
+      internalID: 2039264534861242047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_68"
+      rect:
+        serializedVersion: 2
+        x: 12308
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c301ac90de7851f40800000000000000
+      internalID: 5698610355648467004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_69"
+      rect:
+        serializedVersion: 2
+        x: 12489
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b196e997ef816f40800000000000000
+      internalID: 5720011226619482548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_70"
+      rect:
+        serializedVersion: 2
+        x: 12670
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3daee73a0275f560800000000000000
+      internalID: 7346903755338460474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_71"
+      rect:
+        serializedVersion: 2
+        x: 12851
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3877d51a5ff3ec0800000000000000
+      internalID: -3584876704956972089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_72"
+      rect:
+        serializedVersion: 2
+        x: 13032
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df51d99cfed49b8f0800000000000000
+      internalID: -524302189336914435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_73"
+      rect:
+        serializedVersion: 2
+        x: 13213
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8076ff064910b690800000000000000
+      internalID: -7588537583413071729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_74"
+      rect:
+        serializedVersion: 2
+        x: 13394
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8911760620837040800000000000000
+      internalID: 4644196541554301323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_75"
+      rect:
+        serializedVersion: 2
+        x: 13575
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1cea58189957030800000000000000
+      internalID: 3491865867668341153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_76"
+      rect:
+        serializedVersion: 2
+        x: 13756
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9bd50751fbd5120800000000000000
+      internalID: 2404287874886121911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_77"
+      rect:
+        serializedVersion: 2
+        x: 13937
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d6c056d69975970800000000000000
+      internalID: 8743625896688905524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_78"
+      rect:
+        serializedVersion: 2
+        x: 14118
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266d52079446724c0800000000000000
+      internalID: -4312367851607042462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_79"
+      rect:
+        serializedVersion: 2
+        x: 14299
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c5c11de90ba8c90800000000000000
+      internalID: -7166721660847104972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_80"
+      rect:
+        serializedVersion: 2
+        x: 14480
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5984226aee6ebb0800000000000000
+      internalID: -4906972346666412573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_81"
+      rect:
+        serializedVersion: 2
+        x: 14661
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110278f5f09e69c70800000000000000
+      internalID: 8977619159446134801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_82"
+      rect:
+        serializedVersion: 2
+        x: 14842
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4733aff95568d81d0800000000000000
+      internalID: -3346871245752093836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_83"
+      rect:
+        serializedVersion: 2
+        x: 15023
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4c5ec70cef41700800000000000000
+      internalID: 510312760482317496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_84"
+      rect:
+        serializedVersion: 2
+        x: 15204
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3227072d91f952c0800000000000000
+      internalID: -4442253900157345221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_85"
+      rect:
+        serializedVersion: 2
+        x: 15385
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2341d8c25096ec0800000000000000
+      internalID: -3573319140438166785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "horlogeBienAnim\xE9e_86"
+      rect:
+        serializedVersion: 2
+        x: 15566
+        y: 0
+        width: 181
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50b1dee029afa010800000000000000
+      internalID: 1202365584441978970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "horlogeBienAnim\xE9e_0": 1489754562453037458
+      "horlogeBienAnim\xE9e_1": 4215957968497191355
+      "horlogeBienAnim\xE9e_10": 5843918032518803551
+      "horlogeBienAnim\xE9e_11": -5422260209896961959
+      "horlogeBienAnim\xE9e_12": 5816794771713036225
+      "horlogeBienAnim\xE9e_13": -7389902238214086844
+      "horlogeBienAnim\xE9e_14": -1111896580312093383
+      "horlogeBienAnim\xE9e_15": 5148861563979032042
+      "horlogeBienAnim\xE9e_16": 2261991982644768819
+      "horlogeBienAnim\xE9e_17": -773374867357512571
+      "horlogeBienAnim\xE9e_18": -2979179819806354864
+      "horlogeBienAnim\xE9e_19": 2409271538002606596
+      "horlogeBienAnim\xE9e_2": 2171852591396676097
+      "horlogeBienAnim\xE9e_20": 5800401010242759383
+      "horlogeBienAnim\xE9e_21": -451701060198711760
+      "horlogeBienAnim\xE9e_22": 3781614647618172644
+      "horlogeBienAnim\xE9e_23": -7157182722867129162
+      "horlogeBienAnim\xE9e_24": 9062301842127225515
+      "horlogeBienAnim\xE9e_25": 2821984144370236672
+      "horlogeBienAnim\xE9e_26": -6203451155206164611
+      "horlogeBienAnim\xE9e_27": 5938465694520470680
+      "horlogeBienAnim\xE9e_28": 5198953776335833402
+      "horlogeBienAnim\xE9e_29": 3259307825417754832
+      "horlogeBienAnim\xE9e_3": -3971799988806175133
+      "horlogeBienAnim\xE9e_30": 4299434618341119225
+      "horlogeBienAnim\xE9e_31": -1378172062414612658
+      "horlogeBienAnim\xE9e_32": -7640779009160443871
+      "horlogeBienAnim\xE9e_33": -8640097608625385178
+      "horlogeBienAnim\xE9e_34": 687002299184356056
+      "horlogeBienAnim\xE9e_35": -4308779267425007984
+      "horlogeBienAnim\xE9e_36": -678830577248425677
+      "horlogeBienAnim\xE9e_37": 493833956235603854
+      "horlogeBienAnim\xE9e_38": -3611883596964534966
+      "horlogeBienAnim\xE9e_39": -7096970880406179885
+      "horlogeBienAnim\xE9e_4": 6821327517402280042
+      "horlogeBienAnim\xE9e_40": -5685468061474832079
+      "horlogeBienAnim\xE9e_41": 3381483816347501511
+      "horlogeBienAnim\xE9e_42": 3993503969695192312
+      "horlogeBienAnim\xE9e_43": 7468017227268416094
+      "horlogeBienAnim\xE9e_44": 2905625327473723792
+      "horlogeBienAnim\xE9e_45": 5054275180466242850
+      "horlogeBienAnim\xE9e_46": -7318212619421707626
+      "horlogeBienAnim\xE9e_47": 7801380276538722953
+      "horlogeBienAnim\xE9e_48": -8136021039443710263
+      "horlogeBienAnim\xE9e_49": -6867977593249637535
+      "horlogeBienAnim\xE9e_5": -5517469468039840202
+      "horlogeBienAnim\xE9e_50": 6969681798879949147
+      "horlogeBienAnim\xE9e_51": 778117842621878894
+      "horlogeBienAnim\xE9e_52": 8744080701114385693
+      "horlogeBienAnim\xE9e_53": 2647842397830207479
+      "horlogeBienAnim\xE9e_54": -7218534425643167327
+      "horlogeBienAnim\xE9e_55": 5257314901460870471
+      "horlogeBienAnim\xE9e_56": 4750640516762444856
+      "horlogeBienAnim\xE9e_57": -6454218901820625677
+      "horlogeBienAnim\xE9e_58": -4599120996669569383
+      "horlogeBienAnim\xE9e_59": 4387637580974130948
+      "horlogeBienAnim\xE9e_6": 2034689157123977099
+      "horlogeBienAnim\xE9e_60": -5937013221894229380
+      "horlogeBienAnim\xE9e_61": -4670523852739020392
+      "horlogeBienAnim\xE9e_62": -7418103926111914265
+      "horlogeBienAnim\xE9e_63": -4232484568078057099
+      "horlogeBienAnim\xE9e_64": 6365175116851226811
+      "horlogeBienAnim\xE9e_65": -2739709176992929153
+      "horlogeBienAnim\xE9e_66": 5400361788768949307
+      "horlogeBienAnim\xE9e_67": 2039264534861242047
+      "horlogeBienAnim\xE9e_68": 5698610355648467004
+      "horlogeBienAnim\xE9e_69": 5720011226619482548
+      "horlogeBienAnim\xE9e_7": -2634792996605823767
+      "horlogeBienAnim\xE9e_70": 7346903755338460474
+      "horlogeBienAnim\xE9e_71": -3584876704956972089
+      "horlogeBienAnim\xE9e_72": -524302189336914435
+      "horlogeBienAnim\xE9e_73": -7588537583413071729
+      "horlogeBienAnim\xE9e_74": 4644196541554301323
+      "horlogeBienAnim\xE9e_75": 3491865867668341153
+      "horlogeBienAnim\xE9e_76": 2404287874886121911
+      "horlogeBienAnim\xE9e_77": 8743625896688905524
+      "horlogeBienAnim\xE9e_78": -4312367851607042462
+      "horlogeBienAnim\xE9e_79": -7166721660847104972
+      "horlogeBienAnim\xE9e_8": 5532692850645768352
+      "horlogeBienAnim\xE9e_80": -4906972346666412573
+      "horlogeBienAnim\xE9e_81": 8977619159446134801
+      "horlogeBienAnim\xE9e_82": -3346871245752093836
+      "horlogeBienAnim\xE9e_83": 510312760482317496
+      "horlogeBienAnim\xE9e_84": -4442253900157345221
+      "horlogeBienAnim\xE9e_85": -3573319140438166785
+      "horlogeBienAnim\xE9e_86": 1202365584441978970
+      "horlogeBienAnim\xE9e_9": -1337393937402789501
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
