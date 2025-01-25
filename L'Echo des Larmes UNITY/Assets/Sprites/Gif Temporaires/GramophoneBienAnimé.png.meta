@@ -177,7 +177,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -223,10 +223,10 @@ TextureImporter:
         serializedVersion: 2
         x: 17
         y: 27
-        width: 147
-        height: 226
+        width: 164
+        height: 239
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -240,37 +240,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_1"
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 218
-        width: 14
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d62266e14b0f65eb0800000000000000
-      internalID: -4731329702111337875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: "GramophoneBienAnim\xE9_2"
       rect:
         serializedVersion: 2
         x: 198
-        y: 27
-        width: 147
-        height: 226
+        y: 26
+        width: 164
+        height: 239
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -284,37 +262,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_3"
-      rect:
-        serializedVersion: 2
-        x: 341
-        y: 218
-        width: 14
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 41348e0d0290bb230800000000000000
-      internalID: 3655525559089775380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: "GramophoneBienAnim\xE9_4"
       rect:
         serializedVersion: 2
         x: 379
         y: 27
-        width: 147
-        height: 225
+        width: 164
+        height: 239
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -328,37 +284,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_5"
-      rect:
-        serializedVersion: 2
-        x: 522
-        y: 218
-        width: 14
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 16b188c32d24ed700800000000000000
-      internalID: 566964073821379425
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: "GramophoneBienAnim\xE9_6"
       rect:
         serializedVersion: 2
         x: 560
         y: 27
-        width: 147
-        height: 225
+        width: 164
+        height: 239
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -372,37 +306,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_7"
-      rect:
-        serializedVersion: 2
-        x: 703
-        y: 219
-        width: 14
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 80bede068388ced00800000000000000
-      internalID: 1003326592722529032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: "GramophoneBienAnim\xE9_8"
       rect:
         serializedVersion: 2
         x: 741
         y: 27
-        width: 147
-        height: 226
+        width: 164
+        height: 239
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -416,37 +328,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_9"
-      rect:
-        serializedVersion: 2
-        x: 884
-        y: 219
-        width: 15
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 61922f4e18ef0b830800000000000000
-      internalID: 4085044695870351638
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: "GramophoneBienAnim\xE9_10"
       rect:
         serializedVersion: 2
         x: 922
         y: 27
-        width: 147
-        height: 226
+        width: 164
+        height: 239
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -460,37 +350,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_11"
-      rect:
-        serializedVersion: 2
-        x: 1066
-        y: 220
-        width: 14
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a1754e0b51dcbfc0800000000000000
-      internalID: -3477674623225204314
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: "GramophoneBienAnim\xE9_12"
       rect:
         serializedVersion: 2
         x: 1103
         y: 27
-        width: 147
-        height: 225
+        width: 164
+        height: 239
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -504,37 +372,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_13"
-      rect:
-        serializedVersion: 2
-        x: 1247
-        y: 222
-        width: 15
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 44dd17259e2de1cd0800000000000000
-      internalID: -2585397236511679164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: "GramophoneBienAnim\xE9_14"
       rect:
         serializedVersion: 2
         x: 1284
-        y: 27
-        width: 147
-        height: 226
+        y: 26
+        width: 164
+        height: 239
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -548,37 +394,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_15"
-      rect:
-        serializedVersion: 2
-        x: 1429
-        y: 223
-        width: 14
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ff40d2f318d292f80800000000000000
-      internalID: -8130917619106773761
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: "GramophoneBienAnim\xE9_16"
       rect:
         serializedVersion: 2
         x: 1465
         y: 27
-        width: 147
-        height: 226
+        width: 164
+        height: 239
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -592,37 +416,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_17"
-      rect:
-        serializedVersion: 2
-        x: 1609
-        y: 221
-        width: 14
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4d7503874f0583bc0800000000000000
-      internalID: -3803200874395707436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: "GramophoneBienAnim\xE9_18"
       rect:
         serializedVersion: 2
         x: 1646
         y: 27
-        width: 147
-        height: 225
+        width: 164
+        height: 239
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -636,37 +438,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_19"
-      rect:
-        serializedVersion: 2
-        x: 1789
-        y: 219
-        width: 15
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a9742ad0e34f50ae0800000000000000
-      internalID: -1583591146596972646
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: "GramophoneBienAnim\xE9_20"
       rect:
         serializedVersion: 2
         x: 1827
         y: 27
-        width: 147
-        height: 226
+        width: 164
+        height: 239
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -680,37 +460,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_21"
-      rect:
-        serializedVersion: 2
-        x: 1970
-        y: 219
-        width: 14
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 41d258f1d47c6ff20800000000000000
-      internalID: 3456168898108665108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: "GramophoneBienAnim\xE9_22"
       rect:
         serializedVersion: 2
         x: 2008
         y: 27
-        width: 147
-        height: 226
+        width: 164
+        height: 239
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -723,297 +481,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_23"
-      rect:
-        serializedVersion: 2
-        x: 2151
-        y: 218
-        width: 14
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bdd8d32645c350120800000000000000
-      internalID: 2379374311258295771
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_24"
-      rect:
-        serializedVersion: 2
-        x: 145
-        y: 157
-        width: 28
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 440f8522558dcf5a0800000000000000
-      internalID: -6486071503160283068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_25"
-      rect:
-        serializedVersion: 2
-        x: 326
-        y: 158
-        width: 28
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 67ee3a599efce7560800000000000000
-      internalID: 7313511447041142390
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_26"
-      rect:
-        serializedVersion: 2
-        x: 507
-        y: 158
-        width: 28
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e5db95f3e982cb730800000000000000
-      internalID: 4016129627840429406
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_27"
-      rect:
-        serializedVersion: 2
-        x: 688
-        y: 158
-        width: 28
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a2042d1efa206ecd0800000000000000
-      internalID: -2529331186290769878
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_28"
-      rect:
-        serializedVersion: 2
-        x: 870
-        y: 159
-        width: 28
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6b42b111b2a8c7f10800000000000000
-      internalID: 2268840229863105718
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_29"
-      rect:
-        serializedVersion: 2
-        x: 1051
-        y: 160
-        width: 28
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 648ef6bd599ec8430800000000000000
-      internalID: 3786658216552687686
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_30"
-      rect:
-        serializedVersion: 2
-        x: 1233
-        y: 162
-        width: 28
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9718f39be741703c0800000000000000
-      internalID: -4393520376970247815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_31"
-      rect:
-        serializedVersion: 2
-        x: 1414
-        y: 162
-        width: 28
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 209f7d27fb541d3c0800000000000000
-      internalID: -4336608277613250302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_32"
-      rect:
-        serializedVersion: 2
-        x: 1594
-        y: 160
-        width: 28
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 08d1df86754627cf0800000000000000
-      internalID: -256031902220345984
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_33"
-      rect:
-        serializedVersion: 2
-        x: 1775
-        y: 159
-        width: 28
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8871dd9886e7e13a0800000000000000
-      internalID: -6692773008771311736
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_34"
-      rect:
-        serializedVersion: 2
-        x: 1955
-        y: 158
-        width: 28
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 185721fd0c3a69f20800000000000000
-      internalID: 3429108215060788609
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "GramophoneBienAnim\xE9_35"
-      rect:
-        serializedVersion: 2
-        x: 2136
-        y: 158
-        width: 28
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e16d5064af83dfdc0800000000000000
-      internalID: -3603661479258761698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ef92854bd6bd4b1489b837e802a02a92
     internalID: 0
     vertices: []
     indices: 

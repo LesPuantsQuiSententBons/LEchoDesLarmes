@@ -11,6 +11,7 @@ public abstract class PoseItems : MonoBehaviour
         if (i.objetTrouve && i.selected)
         {
             objetPose = true;
+            GameObject.Find("MUSIQUES").GetComponent<ConfigMusic>().nbEnigmesResolues ++;
             i.objetTrouve = false;
             i.selected = false;
         }

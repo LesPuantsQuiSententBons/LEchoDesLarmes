@@ -2,20 +2,22 @@ using UnityEngine;
 
 public class PoseVinyle : PoseItems
 {
-    private GameObject child;
+    private GameObject gramophoneEteint;
+    private GameObject gramophoneAllume;
 
     void Start() {
-        child = transform.GetChild(0).transform.gameObject;
-        child.SetActive(false);
+        gramophoneEteint = transform.GetChild(0).transform.gameObject;
+        gramophoneAllume = transform.GetChild(1).transform.gameObject;
+        gramophoneAllume.SetActive(false);
     }
 
     void Update() {
         if (objetPose) {
-            child.SetActive(true);
-            gameObject.SetActive(false);
+            gramophoneEteint.SetActive(false);
+            gramophoneAllume.SetActive(true);
         } else {
-            child.SetActive(false);
-            gameObject.SetActive(true);
+            gramophoneEteint.SetActive(true);
+            gramophoneAllume.SetActive(false);
         }
     }
 }
