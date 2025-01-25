@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      personnage mec autre_0: 6254093223610238929
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

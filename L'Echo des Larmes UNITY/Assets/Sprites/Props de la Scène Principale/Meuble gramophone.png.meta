@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Meuble gramophone_0: 5464051217071473665
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

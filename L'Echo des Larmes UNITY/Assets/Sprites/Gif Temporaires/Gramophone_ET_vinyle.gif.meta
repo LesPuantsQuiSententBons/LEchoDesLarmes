@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gramophone_ET_vinyle_0: -9192220150518300098
+      Gramophone_ET_vinyle_1: -1249499435645099066
+      Gramophone_ET_vinyle_2: 3491563885282960517
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

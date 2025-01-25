@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Assiettes_0: -4033779192710595079
+      Assiettes_1: 940894713140102649
+      Assiettes_2: -3076927847981267726
+      Assiettes_3: 7602370565400222663
+      Assiettes_4: 6700122487340947210
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

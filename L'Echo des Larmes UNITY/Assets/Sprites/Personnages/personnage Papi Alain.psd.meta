@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      personnage Papi Alain_0: -154757080721747482
+      personnage Papi Alain_1: 6414085529973001322
+      personnage Papi Alain_2: 7919875704582618476
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

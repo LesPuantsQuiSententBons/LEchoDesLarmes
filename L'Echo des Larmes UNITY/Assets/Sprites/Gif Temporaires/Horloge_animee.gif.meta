@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Horloge_animee_0: -2083642271434654220
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

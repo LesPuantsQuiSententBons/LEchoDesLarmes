@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Meuble droite_0: 7782669588443759246
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
