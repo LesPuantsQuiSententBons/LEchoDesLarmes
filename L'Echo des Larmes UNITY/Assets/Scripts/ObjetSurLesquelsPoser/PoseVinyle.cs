@@ -4,7 +4,7 @@ public class PoseVinyle : PoseItems
 {
     private GameObject gramophoneEteint;
     private GameObject gramophoneAllume;
-    private bool lancerVinyle = false;
+    //private bool lancerVinyle = false;
 
     void Start() {
         gramophoneEteint = transform.GetChild(0).transform.gameObject;

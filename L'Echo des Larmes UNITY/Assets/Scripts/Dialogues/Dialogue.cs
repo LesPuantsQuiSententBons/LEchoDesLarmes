@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Collections;
 using TMPro;
 
-public class Dialogue : MonoBehaviour
+public abstract class Dialogue : MonoBehaviour
 {
     public TextMeshProUGUI textComponent;
     public string [] lines;
-    public float textSpeed;
+    public float textSpeed = 0.9f;
 
-    private int index;
+    protected int index;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -35,13 +35,13 @@ public class Dialogue : MonoBehaviour
         }
     }
 
-void StartDialogue()
+public void StartDialogue()
 {
 index = 0;
 StartCoroutine(TypeLine());
 
 }
-IEnumerator TypeLine()
+protected IEnumerator TypeLine()
 {
     foreach(char c in lines[index].ToCharArray())
     {
@@ -49,18 +49,7 @@ IEnumerator TypeLine()
         yield return new WaitForSeconds(textSpeed);
     }
 }
-void NextLine()
-  {
-    if (index < lines.Length - 1)
-    {
-        index++;
-        textComponent.text = string.Empty;
-        StartCoroutine(TypeLine());
-    }
-    else
-    {
-      gameObject.SetActive(false);
-    }
-  }
+abstract public void NextLine();
+
 
 }
