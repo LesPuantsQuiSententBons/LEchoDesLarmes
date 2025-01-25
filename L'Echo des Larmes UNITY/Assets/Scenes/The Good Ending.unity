@@ -425,8 +425,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 10, y: 17}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 5, y: 8.5}
+  m_SizeDelta: {x: 10, y: 17}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &708757487
 MonoBehaviour:
@@ -521,7 +521,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "                        Merci d'avoir jou\xE9\n\n          \n\n    Lead
+  m_text: "  Vous avez officiellement termin\xE9 notre jeu, en permettant \xE0 Alain
+    de se souvenir de sa femme    \n                       d\xE9funte, M\xE9lodie
+    :)\n\n                        Merci d'avoir jou\xE9\n\n          \n\n    Lead
     Developper               Paul Godek\n\n       \n       Developpers                  
     Garlan Ngoune nguetsa     \n                                              Nicolas
     VELEZ\n\n\n         Designers                      M\xE9lina Modaine\n                                             
@@ -617,7 +619,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ed2b1447a868374483bb25e63ccb82c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textComponent: {fileID: 0}
+  textComponent: {fileID: 861324717}
   speed: 50
 --- !u!1 &955370907
 GameObject:
@@ -735,7 +737,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ed2b1447a868374483bb25e63ccb82c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textComponent: {fileID: 0}
+  textComponent: {fileID: 861324717}
   speed: 50
 --- !u!1 &1259390962
 GameObject:

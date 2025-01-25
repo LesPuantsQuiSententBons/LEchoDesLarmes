@@ -1,10 +1,11 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class CreditsAnimation : MonoBehaviour
 {
-    public Text textComponent;   
-    public float speed = 50f;    
+    public TextMeshProUGUI textComponent;   
+    public float speed = 70f;    
 
     void Update()
     {

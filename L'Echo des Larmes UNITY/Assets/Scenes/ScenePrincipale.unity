@@ -2655,7 +2655,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: 7782669588443759246, guid: 3f1e1882681f53b4abff4958f9b2ff53, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3003,7 +3003,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: 7885844976668849345, guid: eedbf665fc0026e42b826d33fa9cea81, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3090,7 +3090,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: 1128913893237888206, guid: bcb9b038a119826499dbffa350d1e20f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3277,11 +3277,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1350925202}
   - component: {fileID: 1350925200}
+  - component: {fileID: 1350925203}
   - component: {fileID: 1350925201}
   - component: {fileID: 1350925206}
   - component: {fileID: 1350925205}
   - component: {fileID: 1350925204}
-  - component: {fileID: 1350925203}
   - component: {fileID: 1350925207}
   m_Layer: 0
   m_Name: MUSIQUES

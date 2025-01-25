@@ -11,7 +11,7 @@ public class ConfigMusic : MonoBehaviour
     public AudioSource musicVinyle;
     private List<AudioSource> listeMusiques;
     public int nbEnigmesResolues = 0;
-    private int oldNbEnigmesResolues = 0;
+    private int oldNbEnigmesResolues = -1;
     private float oldTime = float.PositiveInfinity;
 
     void Start() {
@@ -20,17 +20,20 @@ public class ConfigMusic : MonoBehaviour
             musicTriste1,
             musicTriste2,
             musicTriste3,
-            musicTriste4
+            musicTriste4, 
+            musicVinyle
         };
     }
 
-    public void PlayVinyle() {
+    /*public void PlayVinyle() {
+        Debug.Log("La mort ");
+        musicVinyle.gameObject.SetActive(true);
         foreach (AudioSource item in listeMusiques) {
             item.volume = 0f;
         }
-        musicVinyle.gameObject.SetActive(true);
+        GetComponent<Animator>().SetBool("CaJoue", true);
         oldTime = Time.time;
-    }
+    }*/
 
     void Update() {
         if (oldNbEnigmesResolues != nbEnigmesResolues) {
@@ -38,7 +41,7 @@ public class ConfigMusic : MonoBehaviour
             ChangeClip();
         }
         if (oldTime != float.PositiveInfinity) {
-            if (oldTime + 15 < Time.time) {
+            if (oldTime + 14.5f < Time.time) {
                 oldTime = float.PositiveInfinity;
                 ChangeClip();
             }
