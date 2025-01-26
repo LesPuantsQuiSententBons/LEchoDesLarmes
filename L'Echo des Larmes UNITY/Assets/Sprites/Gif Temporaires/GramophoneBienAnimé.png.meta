@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 2932bb34348bc5041b5faddaeb7ebb42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7673920097528864689
+    second: "GramophoneBienAnim\xE9_0"
+  - first:
+      213: -4731329702111337875
+    second: "GramophoneBienAnim\xE9_1"
+  - first:
+      213: -1622008308550202728
+    second: "GramophoneBienAnim\xE9_2"
+  - first:
+      213: 3655525559089775380
+    second: "GramophoneBienAnim\xE9_3"
+  - first:
+      213: 1241699573074727776
+    second: "GramophoneBienAnim\xE9_4"
+  - first:
+      213: 566964073821379425
+    second: "GramophoneBienAnim\xE9_5"
+  - first:
+      213: 8245221303013369764
+    second: "GramophoneBienAnim\xE9_6"
+  - first:
+      213: 1003326592722529032
+    second: "GramophoneBienAnim\xE9_7"
+  - first:
+      213: 325678221239253783
+    second: "GramophoneBienAnim\xE9_8"
+  - first:
+      213: 4085044695870351638
+    second: "GramophoneBienAnim\xE9_9"
+  - first:
+      213: 8993654816130804963
+    second: "GramophoneBienAnim\xE9_10"
+  - first:
+      213: -3477674623225204314
+    second: "GramophoneBienAnim\xE9_11"
+  - first:
+      213: 8121283399863517975
+    second: "GramophoneBienAnim\xE9_12"
+  - first:
+      213: -2585397236511679164
+    second: "GramophoneBienAnim\xE9_13"
+  - first:
+      213: 1458710100301110548
+    second: "GramophoneBienAnim\xE9_14"
+  - first:
+      213: -8130917619106773761
+    second: "GramophoneBienAnim\xE9_15"
+  - first:
+      213: 1749498882507440698
+    second: "GramophoneBienAnim\xE9_16"
+  - first:
+      213: -3803200874395707436
+    second: "GramophoneBienAnim\xE9_17"
+  - first:
+      213: 1478867898987971780
+    second: "GramophoneBienAnim\xE9_18"
+  - first:
+      213: -1583591146596972646
+    second: "GramophoneBienAnim\xE9_19"
+  - first:
+      213: 4459942246773702381
+    second: "GramophoneBienAnim\xE9_20"
+  - first:
+      213: 3456168898108665108
+    second: "GramophoneBienAnim\xE9_21"
+  - first:
+      213: -5030663186869617318
+    second: "GramophoneBienAnim\xE9_22"
+  - first:
+      213: 2379374311258295771
+    second: "GramophoneBienAnim\xE9_23"
+  - first:
+      213: -6486071503160283068
+    second: "GramophoneBienAnim\xE9_24"
+  - first:
+      213: 7313511447041142390
+    second: "GramophoneBienAnim\xE9_25"
+  - first:
+      213: 4016129627840429406
+    second: "GramophoneBienAnim\xE9_26"
+  - first:
+      213: -2529331186290769878
+    second: "GramophoneBienAnim\xE9_27"
+  - first:
+      213: 2268840229863105718
+    second: "GramophoneBienAnim\xE9_28"
+  - first:
+      213: 3786658216552687686
+    second: "GramophoneBienAnim\xE9_29"
+  - first:
+      213: -4393520376970247815
+    second: "GramophoneBienAnim\xE9_30"
+  - first:
+      213: -4336608277613250302
+    second: "GramophoneBienAnim\xE9_31"
+  - first:
+      213: -256031902220345984
+    second: "GramophoneBienAnim\xE9_32"
+  - first:
+      213: -6692773008771311736
+    second: "GramophoneBienAnim\xE9_33"
+  - first:
+      213: 3429108215060788609
+    second: "GramophoneBienAnim\xE9_34"
+  - first:
+      213: -3603661479258761698
+    second: "GramophoneBienAnim\xE9_35"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "GramophoneBienAnim\xE9_0"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 27
+        width: 164
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf50f7abad3f7a60800000000000000
+      internalID: 7673920097528864689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "GramophoneBienAnim\xE9_2"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 26
+        width: 164
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a022289087d79e0800000000000000
+      internalID: -1622008308550202728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "GramophoneBienAnim\xE9_4"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 27
+        width: 164
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0639fd2de276b3110800000000000000
+      internalID: 1241699573074727776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "GramophoneBienAnim\xE9_6"
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 27
+        width: 164
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7689c0719ec6270800000000000000
+      internalID: 8245221303013369764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "GramophoneBienAnim\xE9_8"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 27
+        width: 164
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bfb00ed9a058400800000000000000
+      internalID: 325678221239253783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "GramophoneBienAnim\xE9_10"
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 27
+        width: 164
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec25f3a761efcc70800000000000000
+      internalID: 8993654816130804963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "GramophoneBienAnim\xE9_12"
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 27
+        width: 164
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7134429493894b070800000000000000
+      internalID: 8121283399863517975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "GramophoneBienAnim\xE9_14"
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 26
+        width: 164
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dd8be8b116e3410800000000000000
+      internalID: 1458710100301110548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "GramophoneBienAnim\xE9_16"
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 27
+        width: 164
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a328cc2e6f7774810800000000000000
+      internalID: 1749498882507440698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "GramophoneBienAnim\xE9_18"
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 27
+        width: 164
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c408ecc48ef58410800000000000000
+      internalID: 1478867898987971780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "GramophoneBienAnim\xE9_20"
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 27
+        width: 164
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee34b9f7d5e4ed30800000000000000
+      internalID: 4459942246773702381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "GramophoneBienAnim\xE9_22"
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 27
+        width: 164
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d70023c7e7f2ab0800000000000000
+      internalID: -5030663186869617318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ef92854bd6bd4b1489b837e802a02a92
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "GramophoneBienAnim\xE9_0": 7673920097528864689
+      "GramophoneBienAnim\xE9_1": -4731329702111337875
+      "GramophoneBienAnim\xE9_10": 8993654816130804963
+      "GramophoneBienAnim\xE9_11": -3477674623225204314
+      "GramophoneBienAnim\xE9_12": 8121283399863517975
+      "GramophoneBienAnim\xE9_13": -2585397236511679164
+      "GramophoneBienAnim\xE9_14": 1458710100301110548
+      "GramophoneBienAnim\xE9_15": -8130917619106773761
+      "GramophoneBienAnim\xE9_16": 1749498882507440698
+      "GramophoneBienAnim\xE9_17": -3803200874395707436
+      "GramophoneBienAnim\xE9_18": 1478867898987971780
+      "GramophoneBienAnim\xE9_19": -1583591146596972646
+      "GramophoneBienAnim\xE9_2": -1622008308550202728
+      "GramophoneBienAnim\xE9_20": 4459942246773702381
+      "GramophoneBienAnim\xE9_21": 3456168898108665108
+      "GramophoneBienAnim\xE9_22": -5030663186869617318
+      "GramophoneBienAnim\xE9_23": 2379374311258295771
+      "GramophoneBienAnim\xE9_24": -6486071503160283068
+      "GramophoneBienAnim\xE9_25": 7313511447041142390
+      "GramophoneBienAnim\xE9_26": 4016129627840429406
+      "GramophoneBienAnim\xE9_27": -2529331186290769878
+      "GramophoneBienAnim\xE9_28": 2268840229863105718
+      "GramophoneBienAnim\xE9_29": 3786658216552687686
+      "GramophoneBienAnim\xE9_3": 3655525559089775380
+      "GramophoneBienAnim\xE9_30": -4393520376970247815
+      "GramophoneBienAnim\xE9_31": -4336608277613250302
+      "GramophoneBienAnim\xE9_32": -256031902220345984
+      "GramophoneBienAnim\xE9_33": -6692773008771311736
+      "GramophoneBienAnim\xE9_34": 3429108215060788609
+      "GramophoneBienAnim\xE9_35": -3603661479258761698
+      "GramophoneBienAnim\xE9_4": 1241699573074727776
+      "GramophoneBienAnim\xE9_5": 566964073821379425
+      "GramophoneBienAnim\xE9_6": 8245221303013369764
+      "GramophoneBienAnim\xE9_7": 1003326592722529032
+      "GramophoneBienAnim\xE9_8": 325678221239253783
+      "GramophoneBienAnim\xE9_9": 4085044695870351638
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
