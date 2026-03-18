@@ -1,2 +1,2 @@
 # AxeCuirEtCookie
-Game available on itch.io : https://github.com/LesPuantsQuiSententBons/LEchoDesLarmes
+Game available on itch.io : https://paul-godek.itch.io/lecho-des-larmes
