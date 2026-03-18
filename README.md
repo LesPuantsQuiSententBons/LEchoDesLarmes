@@ -1,2 +1,2 @@
 # AxeCuirEtCookie
-Tkt mon reuf ça va le faire
+Game available on itch.io : https://github.com/LesPuantsQuiSententBons/LEchoDesLarmes
